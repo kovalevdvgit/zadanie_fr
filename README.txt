@@ -8,7 +8,7 @@ API доступно по адресу -> http://localhost:8000/api/...
 
 1) В командной строке прописать -> python manage.py test
 5) По адресу http://localhost:8000/docs/
-6) доступно по адресу http://localhost:8000/admin (логин -> admin, пароль -> 123)
+6) Доступно по адресу http://localhost:8000/admin (логин -> admin, пароль -> 123)
 8) Нужно прописать настройки почты в ./config/settings.py в конце файла, и установить SEND_LETTER = True(стоит по умолчанию!)
 9) Откладывание запросов включено по умолчанию , можно выключить ./config/settings.py установить RESANDING = False
 12) Логи находятся в корне дериктории ->  файл ./log_2.txt
