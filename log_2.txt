@@ -1,0 +1,21 @@
+obj => client, id => 1 , metod => post, time  => 2023-07-02 19:02:47.288067, info => created
+obj => client, id => 1, metod => put, time  => 2023-07-02 19:02:47.288067, info => updated
+obj => client, id => 1, metod => delete, time  => 2023-07-02 19:02:47.288067, info => deleted
+obj => mailing, id => 1, metod => put, time  => 2023-07-02 19:02:47.303690, info => updated
+obj => mailing, id => 1, metod => delete, time  => 2023-07-02 19:02:47.303690, info => deleted
+obj => client, id => 1 , metod => post, time  => 2023-07-02 19:04:00.513647, info => created
+obj => client, id => 2 , metod => post, time  => 2023-07-02 19:04:13.405853, info => created
+obj => client, id => 3 , metod => post, time  => 2023-07-02 19:04:25.893071, info => created
+obj => mailing, id => 3, metod => post, time  => 2023-07-02 19:15:12.695876, info => created
+obj => message, id => 1 , metod => ---, time  => 2023-07-02 19:15:14.050669, info => created
+obj => message, id => 2 , metod => ---, time  => 2023-07-02 19:15:14.305601, info => created
+obj => mailing, id => 4, metod => post, time  => 2023-07-02 19:15:28.557121, info => created
+obj => message, id => 3 , metod => ---, time  => 2023-07-02 19:16:09.030994, info => created
+obj => message, id => 4 , metod => ---, time  => 2023-07-02 19:16:09.287758, info => created
+obj => mailing, id => 5, metod => post, time  => 2023-07-02 19:16:19.398761, info => created
+obj => message, id => 5 , metod => ---, time  => 2023-07-02 19:16:39.895544, info => created
+obj => message, id => 6 , metod => ---, time  => 2023-07-02 19:16:40.133809, info => created
+obj => mailing, id => 6, metod => post, time  => 2023-07-02 19:21:33.909420, info => created
+obj => message, id => 7 , metod => ---, time  => 2023-07-02 19:21:34.417297, info => created
+obj => mailing, id => 7, metod => post, time  => 2023-07-02 19:28:12.474980, info => created
+obj => message, id => 8 , metod => ---, time  => 2023-07-02 19:28:44.547386, info => created

@@ -1,0 +1,7 @@
+obj => mailing, id => 1, metod => put, time  => 2023-07-02 19:02:47.303690, info => updated
+obj => mailing, id => 1, metod => delete, time  => 2023-07-02 19:02:47.303690, info => deleted
+obj => mailing, id => 3, metod => post, time  => 2023-07-02 19:15:12.695876, info => created
+obj => mailing, id => 4, metod => post, time  => 2023-07-02 19:15:28.557121, info => created
+obj => mailing, id => 5, metod => post, time  => 2023-07-02 19:16:19.398761, info => created
+obj => mailing, id => 6, metod => post, time  => 2023-07-02 19:21:33.909420, info => created
+obj => mailing, id => 7, metod => post, time  => 2023-07-02 19:28:12.474980, info => created
